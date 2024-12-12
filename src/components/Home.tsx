@@ -1,4 +1,4 @@
-import { fetchProducts } from '@/FetchApi';
+import { fetchProducts } from '@/lib/FetchApi';
 import { useQuery } from '@tanstack/react-query';
 import {Link} from 'react-router-dom'
 
